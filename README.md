@@ -2,7 +2,6 @@
 
 🎓 An IT Student passionate about technology and innovation.  
 💻 Interested in **Web Development, Java, SQL**.  
-🌱 Currently learning **Natural Language Processing & Cryptography**.    
 
 ---
 
